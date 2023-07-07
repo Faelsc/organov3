@@ -28,3 +28,11 @@ Para abrir e rodar o projeto, execute `npm i` para instalar as dependências e `
 
 Depois, acesse <a href="http://localhost:3000/">http://localhost:3000/</a> no seu navegador.
 
+## 🦸 Autor
+
+ <sub><b>Rafael Corrêa</b></sub></a> <a href="https://www.linkedin.com/in/correarafaelsantos/" title="Alura Space">🚀</a>
+ <br />
+👋🏽 [Entre em contato pelo Linkedin!](https://www.linkedin.com/in/correarafaelsantos/)
+
+---
+
